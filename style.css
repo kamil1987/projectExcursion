@@ -12,6 +12,21 @@ table, th, td {
       color:red
   }
 
-  h1{
-      background-color: sandybrown;
+  h1,h2{
+      color: white;
+      text-align:center;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  body{
+      background-color: black;
+      text-align: center;
+  }
+
+  video{
+      
+      object-fit: contain;
+  }
+
+  a{
+      color:Aquamarine;
   }
